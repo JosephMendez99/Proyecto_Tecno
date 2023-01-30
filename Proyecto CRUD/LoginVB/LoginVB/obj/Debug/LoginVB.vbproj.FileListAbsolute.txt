@@ -1,0 +1,10 @@
+d:\virtual studio\Documentos\LoginVB\LoginVB\bin\Debug\LoginVB.exe.config
+F:\LoginVB\LoginVB\bin\Debug\LoginVB.exe.config
+F:\LoginVB\LoginVB\obj\Debug\LoginVB.exe
+F:\LoginVB\LoginVB\obj\Debug\LoginVB.xml
+F:\LoginVB\LoginVB\obj\Debug\LoginVB.pdb
+F:\LoginVB\LoginVB\obj\Debug\LoginVB.vbprojResolveAssemblyReference.cache
+F:\LoginVB\LoginVB\obj\Debug\LoginVB.CRUD.resources
+F:\LoginVB\LoginVB\obj\Debug\LoginVB.Form1.resources
+F:\LoginVB\LoginVB\obj\Debug\LoginVB.Resources.resources
+F:\LoginVB\LoginVB\obj\Debug\LoginVB.vbproj.GenerateResource.Cache
